@@ -1,0 +1,98 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &1
+MonoBehaviour:
+  m_ObjectHideFlags: 61
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ffe70aba2e7074048aca5de573b64a59, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  SimpleSelectedItems:
+    m_Keys:
+    - Assets/Day1Scene1Assets/Aeroplane/Aeroplane.controller
+    - Assets/Day1Scene1Assets/Aeroplane/Aeroplane.controller.meta
+    - Assets/Day1Scene1Assets/Aeroplane/AeroplaneAnimation.anim
+    - Assets/Day1Scene1Assets/Aeroplane/AeroplaneAnimation.anim.meta
+    - Assets/Day1Scene1Assets/Aeroplane/AeroplaneAnimation1.anim
+    - Assets/Day1Scene1Assets/Aeroplane/AeroplaneAnimation1.anim.meta
+    - Assets/Day1Scene1Assets/Aeroplane/AeroplaneCont.controller
+    - Assets/Day1Scene1Assets/Aeroplane/AeroplaneCont.controller.meta
+    - Assets/Day1Scene1Assets/Aeroplane/Materials.meta
+    - Assets/Day1Scene1Assets/Aeroplane/Materials/base.mat
+    - Assets/Day1Scene1Assets/Aeroplane/Materials/base.mat.meta
+    - Assets/Day1Scene1Assets/Aeroplane/Materials/glass.mat
+    - Assets/Day1Scene1Assets/Aeroplane/Materials/glass.mat.meta
+    - Assets/Day1Scene1Assets/Aeroplane/Materials/internals_alu.mat
+    - Assets/Day1Scene1Assets/Aeroplane/Materials/internals_alu.mat.meta
+    - Assets/Day1Scene1Assets/Aeroplane/Materials/internals_b.mat
+    - Assets/Day1Scene1Assets/Aeroplane/Materials/internals_b.mat.meta
+    - Assets/Day1Scene1Assets/Aeroplane/Materials/mirror.mat
+    - Assets/Day1Scene1Assets/Aeroplane/Materials/mirror.mat.meta
+    - Assets/Day1Scene1Assets/Aeroplane/Materials/prop.mat
+    - Assets/Day1Scene1Assets/Aeroplane/Materials/prop.mat.meta
+    - Assets/Day1Scene1Assets/Aeroplane/Materials/tires.mat
+    - Assets/Day1Scene1Assets/Aeroplane/Materials/tires.mat.meta
+    - Assets/Day1Scene1Assets/Aeroplane/piper_pa18.fbx.meta
+    - Assets/Day1Scene1Assets/Wooden Crate/Crate/Materials/Crate_material.mat
+    - Assets/Day2Scene1Assets/ChairScan.meta
+    - Assets/Day2Scene1Assets/ChairScan/ChairAlbedo.jpg
+    - Assets/Day2Scene1Assets/ChairScan/ChairAlbedo.jpg.meta
+    - Assets/Day2Scene1Assets/ChairScan/ChairMaterial.mat
+    - Assets/Day2Scene1Assets/ChairScan/ChairMaterial.mat.meta
+    - Assets/Day2Scene1Assets/ChairScan/MeshChair.obj
+    - Assets/Day2Scene1Assets/ChairScan/MeshChair.obj.meta
+    - Assets/Day2Scene1Assets/MIAT 1.mat
+    - Assets/Day2Scene1Assets/MIAT 1.mat.meta
+    - Assets/Day2Scene1Assets/MIAT.mat
+    - Assets/Day2Scene1Assets/MIAT.mat.meta
+    - Assets/Day2Scene1Assets/Nadias/mat/v3/pasted__Material_u7_v5.mat
+    - Assets/Day2Scene1Assets/textured_output.jpg
+    - Assets/Day2Scene1Assets/textured_output.jpg.meta
+    - Assets/Day2Scene1Assets/textured_output.obj
+    - Assets/Day2Scene1Assets/textured_output.obj.meta
+    - Assets/Day2Scene1Assets/used-new-balance-574-classic-free/New Balance/Shoe.mat
+    - Assets/Day2Scene1Assets/used-new-balance-574-classic-free/New Balance/Shoe.mat.meta
+    - Assets/Day2Scene1Assets/used-new-balance-574-classic-free/New Balance/normals.jpeg.meta
+    - Assets/Day2Scene2Assets/Mocap/Ch36_nonPBR.controller
+    - Assets/Day2Scene2Assets/Mocap/Ch36_nonPBR.controller.meta
+    - Assets/Day2Scene2Assets/Mocap/Ch36_nonPBR.fbx.meta
+    - Assets/Day2Scene2Assets/Mocap/IKanimation.anim
+    - Assets/Day2Scene2Assets/Mocap/IKanimation.anim.meta
+    - Assets/Day2Scene2Assets/Mocap/MocapController.controller
+    - Assets/Day2Scene2Assets/Mocap/OldSkoolAnimation.controller
+    - Assets/Day2Scene2Assets/Mocap/OldSkoolAnimation.controller.meta
+    - Assets/Day2Scene2Assets/Mocap/Test.controller
+    - Assets/Day2Scene2Assets/Mocap/Test.controller.meta
+    - Assets/Day2Scene2Assets/Mocap/TestHand.anim
+    - Assets/Day2Scene2Assets/Mocap/TestHand.anim.meta
+    - Assets/Models/Chairmaterial.mat
+    - Assets/Models/Chairmaterial.mat.meta
+    - Assets/Models/textured_output.jpg
+    - Assets/Models/textured_output.jpg.meta
+    - Assets/Models/textured_output.obj
+    - Assets/Models/textured_output.obj.meta
+    - Assets/New Terrain Material 1.mat
+    - Assets/New Terrain Material 1.mat.meta
+    - Assets/New Terrain Material 2.mat
+    - Assets/New Terrain Material 2.mat.meta
+    - Assets/New Terrain Material.mat
+    - Assets/New Terrain Material.mat.meta
+    - Assets/New Terrain.asset
+    - Assets/New Terrain.asset.meta
+    - Assets/Scenes/Day1Scene1.unity
+    - Assets/Scenes/Day2Scene1.unity
+    - Assets/Standard Assets/Environment/TerrainAssets/SurfaceTextures/NewLayer.terrainlayer
+    - Assets/Standard Assets/Environment/TerrainAssets/SurfaceTextures/NewLayer.terrainlayer.meta
+    - Assets/Standard Assets/Environment/Water/Water4/Materials/Water4Advanced.mat
+    - 
+    m_Values: 00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000
+  RevisionSummary: 
+  ChangesSearchValue: 
+  SelectedHistoryRevision: 
+  HistoryPageNumber: 0
+  TabIndex: 0
